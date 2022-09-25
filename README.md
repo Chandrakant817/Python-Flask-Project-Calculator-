@@ -1,15 +1,14 @@
 # Python-Flask-Project-Calculator-
 Testing API in Postman.
 
-## Programming Language Used: Python
-## Framework used: Flask
-## Python Version: 3.7
+### Programming Language Used: Python
+### Framework used: Flask
+### Python Version: 3.7
 
 ## Application runnin on Local Server:
-Output
-1.
+1.Displaying Homepage of our Application
 ![image](https://user-images.githubusercontent.com/69152112/192155590-3935ddfb-027b-434d-a01b-689e49e91220.png)
-2.
+2.Diaplaying output.
 ![image](https://user-images.githubusercontent.com/69152112/192155622-5f3a58e7-5d22-489e-8b92-22dddece8203.png)
 
 ## Initial Steps for Postman, should be performed before testing the API
