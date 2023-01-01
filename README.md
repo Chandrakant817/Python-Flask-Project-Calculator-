@@ -26,7 +26,9 @@ Testing API in Postman.
 
 6.Then Click Text. In TExt select Json.
 
-### Output of Postman. Testing API through Postman Application.
+## Output of Postman. 
+### Testing API through Postman Application.
+
 ![image](https://user-images.githubusercontent.com/69152112/192156091-14a059c9-3902-4ead-ae90-3dd325535966.png)
 
 
